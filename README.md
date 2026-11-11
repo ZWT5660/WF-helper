@@ -1,19 +1,9 @@
-# WF-helper · Warframe 精通追踪
+# 传奇宝典 · Warframe 助手
 
-  Warframe 精通（大师段位）追踪工具：导入账号数据，统计每个物品「已精通 / 已拥有 /
-  未获取」，按类别展示获取方式，帮你有针对性地刷精通。
+Warframe 综合工具：导入账号数据，统计每个物品「已精通 / 已拥有 / 未获取」，按类别展示获取方式，附带白金查价、中文 Wiki、制造材料、使用教程等，帮你从新手一路走向传奇段位。
 
-  ## 下载使用
+## 下载使用
 
-  在右侧 **Releases** 里下载最新的 exe（Windows 单文件），双击即用。
+在右侧 **Releases** 里下载最新的 `传奇宝典 x.x.x.exe`（Windows 单文件），双击即用。
 
-  作者：肆點灬
-
-  - 文件名 .gitignore，内容（可选，不建也行）：
-  app/
-  scripts/
-  data/
-  worker/
-  node_modules/
-  dist/
-  __pycache__/
+作者：肆點灬
